@@ -10,11 +10,11 @@ class BoardMember{
   }
 
   function approve(){
-
+    return "You can do that!"
   }
 
   function doCharity(){
-
+    return "I like to help people."
   }
 
   function releasePressStatement(){
