@@ -23,10 +23,16 @@ class BoardMember{
   function sayHi(){
 
   }
+  function sayHello(){
+
+  }
 }
 
 class Ceo extends BoardMember{
   constructor(name, homeState, training){
     super(name, homeState, training)
+  }
+  function hireEmployee(){
+    
   }
 }
