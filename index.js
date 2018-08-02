@@ -33,6 +33,6 @@ class Ceo extends BoardMember{
     super(name, homeState, training)
   }
   function hireEmployee(){
-    
+    return "Welcome aboard!"
   }
 }
