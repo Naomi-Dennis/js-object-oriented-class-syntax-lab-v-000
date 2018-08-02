@@ -24,7 +24,7 @@ class BoardMember{
 
   }
   function sayHello(){
-
+    return `Hi, my name is ${name}. I am from <homestate>, and I was trained in <training>.`
   }
 }
 
